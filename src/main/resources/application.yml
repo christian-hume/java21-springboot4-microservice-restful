@@ -1,0 +1,38 @@
+spring:
+  application:
+    name: java21-springboot4-microservice-restful
+  datasource:
+    url: jdbc:h2:mem:testdb
+    driverClassName: org.h2.Driver
+    username: sa
+    password: password
+    # Configuracion para ejecutar scripts SQL
+    initialization-mode: always
+    schema: classpath:schema.sql
+    data: classpath:data.sql
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect
+    hibernate:
+      ddl-auto: update
+  h2:
+    # Para habilitar la consola H2 (opcional)
+    console:
+      enabled: true
+      path: /h2-console
+
+# Embedded server configuration
+server:
+  servlet:
+    # Context path of the application
+    context-path: /
+  # Server HTTP port
+  port: 8080
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health, info
+  endpoint:
+    health:
+      show-details: never
