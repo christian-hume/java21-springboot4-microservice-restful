@@ -11,6 +11,11 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.verify;
 
+/**
+ * @author Christian Hume (DEV)
+ * @version 1.0.0
+ * @since 2026-08-09
+ */
 @ExtendWith(MockitoExtension.class)
 class UserUpdateControllerTest {
 

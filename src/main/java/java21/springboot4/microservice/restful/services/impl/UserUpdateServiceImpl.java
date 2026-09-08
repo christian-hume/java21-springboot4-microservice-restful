@@ -7,6 +7,11 @@ import java21.springboot4.microservice.restful.services.UserUpdateService;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
 
+/**
+ * @author Christian Hume (DEV)
+ * @version 1.0.0
+ * @since 2026-08-09
+ */
 @Service
 public class UserUpdateServiceImpl implements UserUpdateService {
 

@@ -10,9 +10,9 @@ import org.springframework.web.context.request.WebRequest;
 import java.time.LocalDateTime;
 
 /**
- * @author Christian Hume (DEVs)
+ * @author Christian Hume (DEV)
  * @version 1.0.0
- * @since 2025-10-01
+ * @since 2026-08-09
  */
 @RestControllerAdvice
 public class ExceptionHandling {

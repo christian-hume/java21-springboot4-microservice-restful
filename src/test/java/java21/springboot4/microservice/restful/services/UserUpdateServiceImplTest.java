@@ -17,6 +17,11 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
+/**
+ * @author Christian Hume (DEV)
+ * @version 1.0.0
+ * @since 2026-08-09
+ */
 @ExtendWith(MockitoExtension.class)
 class UserUpdateServiceImplTest {
 

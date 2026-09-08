@@ -8,13 +8,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f7495e2-1b14-404f-bd33-2afbc3faf6e7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/ApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/9.7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/java21.springboot4.microservice.restful.Java21Springboot4MicroserviceRestfulApplicationTests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resolvedMainClassName" beforeDir="false" afterPath="$PROJECT_DIR$/build/resolvedMainClassName" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-java21.springboot4.microservice.restful.Java21Springboot4MicroserviceRestfulApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output-events.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output-events.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results-generic.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results-generic.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/bootJar/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserCreateController.class.uniqueId3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserDeleteController.class.uniqueId2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserReadController.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserReadController.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserRepository.class.uniqueId6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserService.class.uniqueId5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserServiceImpl.class.uniqueId4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/UserUpdateController.class.uniqueId1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/commons/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/commons/ExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/commons/ExceptionResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/commons/ExceptionResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/commons/exceptions/NotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/commons/exceptions/NotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/controllers/UserCreateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/controllers/UserCreateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/controllers/UserDeleteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/controllers/UserDeleteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/controllers/UserReadController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/controllers/UserReadController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/controllers/UserUpdateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/controllers/UserUpdateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/models/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/models/UserModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/repositories/UserCreateRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/repositories/UserCreateRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/repositories/UserDeleteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/repositories/UserDeleteRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/repositories/UserReadRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/repositories/UserReadRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/repositories/UserUpdateRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/repositories/UserUpdateRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/UserCreateService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/UserCreateService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/UserDeleteService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/UserDeleteService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/UserReadService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/UserReadService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/UserUpdateService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/UserUpdateService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/impl/UserCreateServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/impl/UserCreateServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/impl/UserDeleteServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/impl/UserDeleteServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/impl/UserReadServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/impl/UserReadServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/impl/UserUpdateServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java21/springboot4/microservice/restful/services/impl/UserUpdateServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/Java21Springboot4MicroserviceRestfulApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/controllers/UserCreateControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/controllers/UserCreateControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/controllers/UserDeleteControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/controllers/UserDeleteControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/controllers/UserReadControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/controllers/UserReadControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/controllers/UserUpdateControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/controllers/UserUpdateControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/repositories/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/repositories/UserRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/services/UserCreateServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/services/UserCreateServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/services/UserDeleteServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/services/UserDeleteServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/services/UserReadServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/services/UserReadServiceImplTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/services/UserUpdateServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java21/springboot4/microservice/restful/services/UserUpdateServiceImplTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="ff62bb33-a889-43e4-8396-0cfedcb4c2d4" value="" />
+    </colors>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -55,6 +114,69 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.125580670334759" />
+      <entry key="MS500" value="3.3375172225369503" />
+      <entry key="S2" value="9.623924441844029" />
+      <entry key="S5" value="17.000223153855217" />
+      <entry key="S10" value="22.573256763161094" />
+      <entry key="S30" value="28.265446327269895" />
+      <entry key="S60" value="30.044981451543165" />
+      <entry key="M2" value="30.99936133832427" />
+      <entry key="M5" value="31.59403272015453" />
+      <entry key="M10" value="31.796050648518023" />
+      <entry key="M15" value="31.863818132563598" />
+      <entry key="M30" value="31.93180099086348" />
+      <entry key="H1" value="31.965873427925484" />
+      <entry key="H2" value="31.982929940994627" />
+      <entry key="H4" value="31.9914632764932" />
+      <entry key="D1" value="31.998576977405797" />
+      <entry key="W1" value="31.99979670529365" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.0715024136454865" />
+      <entry key="MS500" value="3.302180156503684" />
+      <entry key="S2" value="9.596153570239288" />
+      <entry key="S5" value="16.9764520273466" />
+      <entry key="S10" value="22.555563776533848" />
+      <entry key="S30" value="28.257390797367126" />
+      <entry key="S60" value="30.040602482691792" />
+      <entry key="M2" value="30.997076521475684" />
+      <entry key="M5" value="31.59309487897601" />
+      <entry key="M10" value="31.795577652849914" />
+      <entry key="M15" value="31.863501889812998" />
+      <entry key="M30" value="31.931642411641402" />
+      <entry key="H1" value="31.965794023534052" />
+      <entry key="H2" value="31.982890210063882" />
+      <entry key="H4" value="31.991443403839078" />
+      <entry key="D1" value="31.998573664297922" />
+      <entry key="W1" value="31.99979623196805" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3,
   &quot;fromUser&quot;: false
@@ -66,19 +188,24 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Build java21-springboot4-microservice-restful.executor": "Run",
     "Gradle.java21-springboot4-microservice-restful [build].executor": "Run",
     "Gradle.java21-springboot4-microservice-restful [clean].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.Application.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feature/create-project",
+    "git-widget-placeholder": "feature/clean-architecture",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/dev/repositories/java21-springboot4-microservice-restful",
+    "last_opened_file_path": "C:/dev/repositories/java21-springboot4-microservice-restful/src/main/java/java21/springboot4/microservice/restful",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
@@ -87,7 +214,15 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.java21-springboot4-microservice-restful [build]">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\repositories\java21-springboot4-microservice-restful\src\main\java\java21\springboot4\microservice\restful" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java21.springboot4.microservice.restful" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
     <configuration name="java21-springboot4-microservice-restful [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -137,6 +272,13 @@
       <GradleProfilingDisabled>false</GradleProfilingDisabled>
       <GradleCoverageDisabled>false</GradleCoverageDisabled>
       <method v="2" />
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="java21-springboot4-microservice-restful.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="java21.springboot4.microservice.restful.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Java21Springboot4MicroserviceRestfulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="java21-springboot4-microservice-restful.main" />

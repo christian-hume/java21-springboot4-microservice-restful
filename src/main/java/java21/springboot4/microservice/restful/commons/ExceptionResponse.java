@@ -5,9 +5,9 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import java.time.LocalDateTime;
 
 /**
- * @author Christian Hume (DEVs)
+ * @author Christian Hume (DEV)
  * @version 1.0.0
- * @since 2025-10-01
+ * @since 2026-08-09
  */
 public class ExceptionResponse {
 

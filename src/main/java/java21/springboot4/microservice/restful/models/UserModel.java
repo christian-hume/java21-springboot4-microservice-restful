@@ -4,9 +4,9 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import jakarta.persistence.*;
 
 /**
- * @author Christian Hume (DEVs)
+ * @author Christian Hume (DEV)
  * @version 1.0.0
- * @since 2025-10-01
+ * @since 2026-08-09
  */
 @Entity
 @Table(name = "tbl_user")

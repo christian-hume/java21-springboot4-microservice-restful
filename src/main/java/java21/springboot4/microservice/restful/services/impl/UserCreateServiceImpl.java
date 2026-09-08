@@ -5,6 +5,11 @@ import java21.springboot4.microservice.restful.repositories.UserCreateRepository
 import java21.springboot4.microservice.restful.services.UserCreateService;
 import org.springframework.stereotype.Service;
 
+/**
+ * @author Christian Hume (DEV)
+ * @version 1.0.0
+ * @since 2026-08-09
+ */
 @Service
 public class UserCreateServiceImpl implements UserCreateService {
 
